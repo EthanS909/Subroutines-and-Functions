@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.exe
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.deps.json
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.runtimeconfig.json
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.dll
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\bin\Debug\netcoreapp3.1\Subroutines and Functions.pdb
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.dll
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.pdb
+C:\Users\ethan\source\repos\Subroutines-and-Functions\Subroutines and Functions\Subroutines and Functions\obj\Debug\netcoreapp3.1\Subroutines and Functions.genruntimeconfig.cache
