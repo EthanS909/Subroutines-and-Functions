@@ -17,6 +17,14 @@ namespace Subroutines_and_Functions
             int g = 0;
             g = task3(d, e, f);
             Console.WriteLine(g);
+
+            Double h = 0d;
+            Double i = 0d;
+            Console.WriteLine("Enter a number:");
+            h = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Enter a second number:");
+            i = Convert.ToDouble(Console.ReadLine());
+            task4(h, i);
         }
 
         static void task2(int a, int b, int c)
@@ -30,6 +38,15 @@ namespace Subroutines_and_Functions
             int result = a + b + c;
 
             return result;
+        }
+
+        static void task4(Double a, Double b)
+        {
+            Double opposite = Math.Pow(a, 2);
+            Double adjacent = Math.Pow(b, 2);
+            Double hyposquare = opposite + adjacent;
+            Double hypo = Math.Sqrt(hyposquare);
+            Console.WriteLine("Hypotenuse = {0}", hypo);
         }
     }
 }
