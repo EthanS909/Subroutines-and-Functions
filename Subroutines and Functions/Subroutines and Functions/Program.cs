@@ -76,5 +76,10 @@ namespace Subroutines_and_Functions
 
             return hypo;
         }
+
+        static void task6()
+        {
+
+        }
     }
 }
