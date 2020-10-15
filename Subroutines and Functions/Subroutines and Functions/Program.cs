@@ -28,18 +28,18 @@ namespace Subroutines_and_Functions
 
             Double h = 0d;
             Double i = 0d;
-            Console.WriteLine("Enter a number:");
+            Console.WriteLine("Enter the opposite value:");
             h = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a second number:");
+            Console.WriteLine("Enter the adjacent value:");
             i = Convert.ToDouble(Console.ReadLine());
             task4(h, i);
 
             Double j = 0d;
             Double k = 0d;
             Double l = 0d;
-            Console.WriteLine("Enter a number:");
+            Console.WriteLine("Enter the opposite value:");
             j = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Enter a second number:");
+            Console.WriteLine("Enter the adjacent value:");
             k = Convert.ToDouble(Console.ReadLine());
             l = task5(j, k);
             Console.WriteLine("Hypotenuse = {0}", l);
